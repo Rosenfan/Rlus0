@@ -4,10 +4,9 @@
 # Hi there 👋
 
  
-### I'm Silence 
-- 🌱 萌新一枚
-- 🌱 Python爱好者--爬虫 爆破 
-- 🌱 虚拟机爱好者--Win/Unix系统 
+### I'm Rosen
+- 🌱 Information security engineer
+- 🌱 AI lovers
 
  
 - 💬 
